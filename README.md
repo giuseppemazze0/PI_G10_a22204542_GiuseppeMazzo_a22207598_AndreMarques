@@ -1,6 +1,6 @@
 # Trabalho da Cadeira Processamento de Imagem 
 
-| Tema do projeto                                                                                                                     |
+| Tema do projeto                                                                                                                      |
 |----------------------------------------------|---------------------------------------------------------------------------------------|
 | Tema                                         | Receitas                                                                              |
 | Grupo                                        | a22207598 André Marques e a22204542 Giuseppe Mazz                                     |
