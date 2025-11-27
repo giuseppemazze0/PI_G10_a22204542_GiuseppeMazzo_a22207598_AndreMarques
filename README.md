@@ -1,6 +1,6 @@
 # Trabalho da Cadeira Processamento de Imagem 
 
-| Tema                                         | Receitas / Descrição                                                                 |
+| Tema                                         | Receitas                                                                             |
 |----------------------------------------------|---------------------------------------------------------------------------------------|
 | Grupo                                        | a22207598 André Marques e a22204542 Giuseppe Mazz                                     |
 | Funcionalidade baseada em LLM                | A operação **x** será delegada ao LLM                                                 |
