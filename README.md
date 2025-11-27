@@ -2,7 +2,9 @@
 
 | Tema do projeto                             | Descrição                                                                             |
 |---------------------------------------------|---------------------------------------------------------------------------------------|
-| Tema                                        | Receitas                                                                              |
+| Tema                                        | Receitas:                                                                             |
+|                                             | 1- Adicionar ingredientes disponíveis (input)                                         |
+|                                             | 2- Pedir sugestão de receita com base nos ingredientes disponíveis                    |
 | Grupo                                       | a22207598 André Marques e a22204542 Giuseppe Mazz                                     |
 | Funcionalidade baseada em LLM               | A operação **x** será delegada ao LLM                                                 |
 | Prompts esperadas para a função             | *Descreva aqui as prompts que o sistema deverá enviar ao LLM*                         |
